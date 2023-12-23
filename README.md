@@ -4,7 +4,7 @@ This project was developed as part of the interview task for AlphaBI.
 
 ## Deployed Link
 
--   <a target='_black' herf='https://gif-galaxy.vercel.app/'>https://gif-galaxy.vercel.app/</a>
+-   <a target='_black' herf='https://vercel.com/ibrahimghasia/gif-galaxy-task'>https://vercel.com/ibrahimghasia/gif-galaxy-task</a>
 
 ## Overview
 
